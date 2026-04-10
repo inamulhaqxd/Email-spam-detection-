@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+env/
+venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Generated plots
+*.png
+
+# NOTE: Do NOT add emails.csv, model.pkl, tfidf.pkl here
+# They need to be on GitHub for Streamlit Cloud deployment
