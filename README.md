@@ -3,6 +3,7 @@
 A machine learning web app built with **Streamlit** that detects whether an email is **Spam or Ham (Not Spam)** using **Logistic Regression** and **TF-IDF** text features.
 
 ---
+**Preview** = **https://spam-mails-dataset-dfmzswyja65jaxgzewvbps.streamlit.app/**
 
 ## 🚀 App Features
 
